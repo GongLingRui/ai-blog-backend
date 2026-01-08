@@ -136,10 +136,10 @@ services:
   # Frontend
   frontend:
     build:
-      context: ./ai-muse-blog
+      context: ../ai-muse-blog
       dockerfile: Dockerfile
       args:
-        VITE_API_BASE_URL: http://localhost:8000
+        VITE_API_BASE_URL: http://115.190.77.60:8000
     container_name: ai-muse-frontend
     restart: unless-stopped
     ports:

@@ -44,5 +44,4 @@ black==23.12.1
 flake8==6.1.0
 mypy==1.7.1
 
-# CORS
-python-cors==1.0.0
+# CORS (FastAPI has built-in CORS support)
