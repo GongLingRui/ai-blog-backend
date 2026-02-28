@@ -1,5 +1,9 @@
 # AI Muse Blog
 
+## 前端地址:
+
+https://github.com/GongLingRui/ai-muse-blog
+
 一个现代化的 AI 学习博客平台，支持文章发布、评论、点赞、收藏、关注等功能。
 
 ## 项目简介
